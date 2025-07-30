@@ -14,6 +14,8 @@
 <p>Para construir os princípios básicos da BlockChain foi usado o editor VScode na linguagem Python devido sua flexibilidade e facilidade, também foi inspirado completamente em conteúdo youtube tutorial chamado <a href="https://www.youtube.com/watch?v=yBuzx8akAd0">"Como construir sua própria blockchain com python - tutorial passo a passo"</a> devidos créditos ao canal Data Lead</p>
 <br>
 
-    Duas bibliotecas foram importadas para o funcionamento do código 'hashlib' e 'datetime', para geração e validação de hash e comprovação de datas para geração de bloco respectivamente. Também é compreendido na construção, o uso de classes e funções construtoras para geração dos blocos e seus dados - usando indexes, hash de blocos atuais e anterior, timestamp(um selo de tempo) - e outra para geração da cadeia e validação dos blocos antes de adiciona-las na corrente.
+    Duas bibliotecas foram importadas para o funcionamento do código 'hashlib' e 'datetime', 
+    para geração e validação de hash e comprovação de datas para geração de bloco respectivamente. 
+    Também é compreendido na construção, o uso de classes e funções construtoras para geração dos blocos e seus dados - usando indexes, hash de blocos atuais e anterior, timestamp(um selo de tempo) - e outra para geração da cadeia e validação dos blocos antes de adiciona-las na corrente.
 
 </main>
